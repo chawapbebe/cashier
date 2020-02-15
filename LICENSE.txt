@@ -1,23 +1,24 @@
-The MIT License (MIT)
+ใบอนุญาต MIT (MIT)
 
-Copyright (c) Verawat Kunchu|2563-2564 B.E.
+ลิขสิทธิ์ (c) Verawat Kunchu | 2563-2564 พ.ศ.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+การอนุญาตได้รับอนุญาตโดยไม่เสียค่าใช้จ่ายแก่บุคคลใด ๆ ที่ได้รับสำเนา
+ของซอฟต์แวร์นี้และไฟล์เอกสารที่เกี่ยวข้อง ("ซอฟต์แวร์") เพื่อจัดการ
+ในซอฟต์แวร์โดยไม่มีข้อ จำกัด รวมถึง แต่ไม่ จำกัด เพียงสิทธิ์
+เพื่อใช้คัดลอกแก้ไขผสานเผยแพร่แจกจ่ายใบอนุญาตและ / หรือขาย
+สำเนาของซอฟต์แวร์และเพื่ออนุญาตให้บุคคลที่เป็นซอฟต์แวร์
+ตกแต่งแล้วให้ทำภายใต้เงื่อนไขต่อไปนี้:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+ประกาศเกี่ยวกับลิขสิทธิ์ข้างต้นและประกาศการอนุญาตนี้จะรวมอยู่ใน
+สำเนาทั้งหมดหรือบางส่วนที่สำคัญของซอฟต์แวร์
 
-THE SOFTWARE IS PROVIDED "BASICALLY", NOT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-สงวนสิทธิ์ 
+ซอฟต์แวร์นี้จัดหาให้ "เบื้องต้น" ไม่รับประกันใด ๆ หรือ
+โดยนัยรวมถึง แต่ไม่ จำกัด เพียงการรับประกันของการค้าขาย
+ความเหมาะสมสำหรับวัตถุประสงค์เฉพาะและการไม่ผูกขาด ไม่ว่าในกรณีใด
+ผู้เขียนหรือผู้ถือลิขสิทธิ์จะต้องรับผิดต่อความเสียหายใด ๆ หรืออื่น ๆ
+ความรับผิดในการดำเนินการของสัญญา, การละเมิดหรืออื่น ๆ ที่เกิดขึ้นจาก,
+ออกจากหรือเชื่อมต่อกับซอฟต์แวร์หรือการใช้งานหรือการจัดการอื่น ๆ ใน
+ซอฟต์แวร์
+ขอสงวนสิทธิ์ ทุกประการ
  
+© 2020 GitHub, Inc.
